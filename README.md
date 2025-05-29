@@ -41,3 +41,9 @@ npm run build
 ```sh
 npm run lint
 ```
+
+### Connect with [Json Server](https://www.npmjs.com/package/json-server)
+
+```sh
+npm run json:server
+```
